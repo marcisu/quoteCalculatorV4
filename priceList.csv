@@ -1,0 +1,181 @@
+﻿Index;Size;Series;Material;Seat;Price;PriceCAD;Note
+1;2;Series 10;"Cast/Ductile > 14""";Metal; $288,00 ; $336,00 ;
+2;2.5;Series 10;"Cast/Ductile > 14""";Metal; $324,00 ; $378,00 ;
+3;3;Series 10;"Cast/Ductile > 14""";Metal; $352,00 ; $411,00 ;
+4;4;Series 10;"Cast/Ductile > 14""";Metal; $354,00 ; $413,00 ;
+5;5;Series 10;"Cast/Ductile > 14""";Metal; $411,00 ; $480,00 ;
+6;6;Series 10;"Cast/Ductile > 14""";Metal; $458,00 ; $534,00 ;
+7;8;Series 10;"Cast/Ductile > 14""";Metal; $796,00 ; $928,00 ;
+8;10;Series 10;"Cast/Ductile > 14""";Metal; $1 119,00 ; $1 305,00 ;
+9;12;Series 10;"Cast/Ductile > 14""";Metal; $1 478,00 ; $1 724,00 ;
+10;14;Series 10;"Cast/Ductile > 14""";Metal; $2 295,00 ; $2 677,00 ;
+11;16;Series 10;"Cast/Ductile > 14""";Metal; $3 075,00 ; $3 587,00 ;
+12;18;Series 10;"Cast/Ductile > 14""";Metal; $4 197,00 ; $4 896,00 ;
+13;20;Series 10;"Cast/Ductile > 14""";Metal; $5 011,00 ; $5 844,00 ;
+14;24;Series 10;"Cast/Ductile > 14""";Metal; $7 350,00 ; $8 573,00 ;
+15;28;Series 10;"Cast/Ductile > 14""";Metal; $12 763,00 ; $14 887,00 ;Comes with Gear
+16;30;Series 10;"Cast/Ductile > 14""";Metal;;;Not a valid configuration
+17;32;Series 10;"Cast/Ductile > 14""";Metal; $18 528,00 ; $21 611,00 ;Comes with Gear
+18;36;Series 10;"Cast/Ductile > 14""";Metal;;;Not a valid configuration
+19;2;Series 10;"Cast/Ductile > 14""";EPDM; $300,00 ; $350,00 ;
+20;2.5;Series 10;"Cast/Ductile > 14""";EPDM; $342,00 ; $399,00 ;
+21;3;Series 10;"Cast/Ductile > 14""";EPDM; $372,00 ; $434,00 ;
+22;4;Series 10;"Cast/Ductile > 14""";EPDM; $376,00 ; $439,00 ;
+23;5;Series 10;"Cast/Ductile > 14""";EPDM; $437,00 ; $510,00 ;
+24;6;Series 10;"Cast/Ductile > 14""";EPDM; $491,00 ; $573,00 ;
+25;8;Series 10;"Cast/Ductile > 14""";EPDM; $832,00 ; $971,00 ;
+26;10;Series 10;"Cast/Ductile > 14""";EPDM; $1 159,00 ; $1 352,00 ;
+27;12;Series 10;"Cast/Ductile > 14""";EPDM; $1 523,00 ; $1 777,00 ;
+28;14;Series 10;"Cast/Ductile > 14""";EPDM; $2 378,00 ; $2 773,00 ;
+29;16;Series 10;"Cast/Ductile > 14""";EPDM; $3 174,00 ; $3 702,00 ;
+30;18;Series 10;"Cast/Ductile > 14""";EPDM; $4 304,00 ; $5 020,00 ;
+31;20;Series 10;"Cast/Ductile > 14""";EPDM; $5 101,00 ; $5 950,00 ;
+32;24;Series 10;"Cast/Ductile > 14""";EPDM; $7 496,00 ; $8 744,00 ;
+33;28;Series 10;"Cast/Ductile > 14""";EPDM; $13 008,00 ; $15 173,00 ;Comes with Gear
+34;30;Series 10;"Cast/Ductile > 14""";EPDM;;;Not a valid configuration
+35;32;Series 10;"Cast/Ductile > 14""";EPDM; $18 940,00 ; $22 091,00 ;Comes with Gear
+36;36;Series 10;"Cast/Ductile > 14""";EPDM;;;Not a valid configuration
+37;2;Series 11;Ductile;EPDM; $492,00 ; $564,00 ;
+38;2.5;Series 11;Ductile;EPDM; $509,00 ; $583,00 ;
+39;3;Series 11;Ductile;EPDM; $545,00 ; $625,00 ;
+40;4;Series 11;Ductile;EPDM; $571,00 ; $654,00 ;
+41;5;Series 11;Ductile;EPDM; $667,00 ; $765,00 ;
+42;6;Series 11;Ductile;EPDM; $708,00 ; $811,00 ;
+43;8;Series 11;Ductile;EPDM; $1 194,00 ; $1 367,00 ;
+44;10;Series 11;Ductile;EPDM; $1 514,00 ; $1 735,00 ;
+45;12;Series 11;Ductile;EPDM; $1 906,00 ; $2 183,00 ;
+46;14;Series 11;Ductile;EPDM; $2 700,00 ; $3 092,00 ;
+47;16;Series 11;Ductile;EPDM; $3 410,00 ; $3 906,00 ;
+48;18;Series 11;Ductile;EPDM; $4 152,00 ; $4 756,00 ;
+49;20;Series 11;Ductile;EPDM; $4 770,00 ; $5 464,00 ;
+50;24;Series 11;Ductile;EPDM; $7 431,00 ; $8 513,00 ;
+51;28;Series 11;Ductile;EPDM;;;Not a valid configuration
+52;30;Series 11;Ductile;EPDM;;;Not a valid configuration
+53;32;Series 11;Ductile;EPDM;;;Not a valid configuration
+54;36;Series 11;Ductile;EPDM;;;Not a valid configuration
+55;2;Series 20;CF8;Metal;;;Not a valid configuration
+56;2.5;Series 20;CF8;Metal;;;Not a valid configuration
+57;3;Series 20;CF8;Metal;;;Not a valid configuration
+58;4;Series 20;CF8;Metal; $449,00 ; $524,00 ;
+59;5;Series 20;CF8;Metal; $560,00 ; $653,00 ;
+60;6;Series 20;CF8;Metal; $633,00 ; $738,00 ;
+61;8;Series 20;CF8;Metal; $1 081,00 ; $1 261,00 ;
+62;10;Series 20;CF8;Metal; $1 532,00 ; $1 786,00 ;
+63;12;Series 20;CF8;Metal; $2 027,00 ; $2 149,00 ;
+64;14;Series 20;CF8;Metal; $2 898,00 ; $3 380,00 ;
+65;16;Series 20;CF8;Metal; $3 709,00 ; $4 327,00 ;
+66;18;Series 20;CF8;Metal; $4 708,00 ; $5 491,00 ;
+67;20;Series 20;CF8;Metal; $6 187,00 ; $7 217,00 ;
+68;24;Series 20;CF8;Metal; $8 694,00 ; $9 751,00 ;
+69;28;Series 20;CF8;Metal;;;Not a valid configuration
+70;30;Series 20;CF8;Metal; $17 274,00 ; $20 148,00 ;Comes with Gear
+71;32;Series 20;CF8;Metal;;;Not a valid configuration
+72;36;Series 20;CF8;Metal; $26 927,00 ; $31 407,00 ;Comes with Gear
+73;2;Series 20;CF8;EPDM;;;Not a valid configuration
+74;2.5;Series 20;CF8;EPDM;;;Not a valid configuration
+75;3;Series 20;CF8;EPDM;;;Not a valid configuration
+76;4;Series 20;CF8;EPDM; $465,00 ; $543,00 ;
+77;5;Series 20;CF8;EPDM; $582,00 ; $678,00 ;
+78;6;Series 20;CF8;EPDM; $656,00 ; $765,00 ;
+79;8;Series 20;CF8;EPDM; $1 113,00 ; $1 298,00 ;
+80;10;Series 20;CF8;EPDM; $1 558,00 ; $1 817,00 ;
+81;12;Series 20;CF8;EPDM; $2 047,00 ; $2 170,00 ;
+82;14;Series 20;CF8;EPDM; $2 919,00 ; $3 405,00 ;
+83;16;Series 20;CF8;EPDM; $3 732,00 ; $4 353,00 ;
+84;18;Series 20;CF8;EPDM; $4 812,00 ; $5 612,00 ;
+85;20;Series 20;CF8;EPDM; $6 324,00 ; $7 376,00 ;
+86;24;Series 20;CF8;EPDM; $8 923,00 ; $10 008,00 ;
+87;28;Series 20;CF8;EPDM;;;Not a valid configuration
+88;30;Series 20;CF8;EPDM; $18 075,00 ; $21 082,00 ;Comes with Gear
+89;32;Series 20;CF8;EPDM;;;Not a valid configuration
+90;36;Series 20;CF8;EPDM; $27 867,00 ; $32 504,00 ;Comes with Gear
+91;2;Series 20;CF8M;Metal; $313,00 ; $365,00 ;
+92;2.5;Series 20;CF8M;Metal;;;Not a valid configuration
+93;3;Series 20;CF8M;Metal; $381,00 ; $445,00 ;
+94;4;Series 20;CF8M;Metal; $513,00 ; $598,00 ;
+95;5;Series 20;CF8M;Metal; $645,00 ; $753,00 ;
+96;6;Series 20;CF8M;Metal; $740,00 ; $863,00 ;
+97;8;Series 20;CF8M;Metal; $1 257,00 ; $1 466,00 ;
+98;10;Series 20;CF8M;Metal; $1 816,00 ; $2 119,00 ;
+99;12;Series 20;CF8M;Metal; $2 437,00 ; $2 584,00 ;
+100;14;Series 20;CF8M;Metal; $3 534,00 ; $4 122,00 ;
+101;16;Series 20;CF8M;Metal; $4 600,00 ; $5 365,00 ;
+102;18;Series 20;CF8M;Metal; $5 863,00 ; $6 838,00 ;
+103;20;Series 20;CF8M;Metal; $7 732,00 ; $9 018,00 ;
+104;24;Series 20;CF8M;Metal; $11 085,00 ; $12 432,00 ;
+105;28;Series 20;CF8M;Metal;;;Not a valid configuration
+106;30;Series 20;CF8M;Metal; $20 685,00 ; $24 126,00 ;Comes with Gear
+107;32;Series 20;CF8M;Metal;;;Not a valid configuration
+108;36;Series 20;CF8M;Metal; $31 038,00 ; $36 203,00 ;Comes with Gear
+109;2;Series 20;CF8M;EPDM; $327,00 ; $382,00 ;
+110;2.5;Series 20;CF8M;EPDM;;;Not a valid configuration
+111;3;Series 20;CF8M;EPDM; $397,00 ; $463,00 ;
+112;4;Series 20;CF8M;EPDM; $530,00 ; $618,00 ;
+113;5;Series 20;CF8M;EPDM; $668,00 ; $780,00 ;
+114;6;Series 20;CF8M;EPDM; $766,00 ; $894,00 ;
+115;8;Series 20;CF8M;EPDM; $1 296,00 ; $1 511,00 ;
+116;10;Series 20;CF8M;EPDM; $1 850,00 ; $2 158,00 ;
+117;12;Series 20;CF8M;EPDM; $2 466,00 ; $2 615,00 ;
+118;14;Series 20;CF8M;EPDM; $3 564,00 ; $4 157,00 ;
+119;16;Series 20;CF8M;EPDM; $4 633,00 ; $5 403,00 ;
+120;18;Series 20;CF8M;EPDM; $5 902,00 ; $6 885,00 ;
+121;20;Series 20;CF8M;EPDM; $7 794,00 ; $9 091,00 ;
+122;24;Series 20;CF8M;EPDM; $11 168,00 ; $12 526,00 ;
+123;28;Series 20;CF8M;EPDM;;;Not a valid configuration
+124;30;Series 20;CF8M;EPDM; $21 162,00 ; $24 683,00 ;Comes with Gear
+125;32;Series 20;CF8M;EPDM;;;Not a valid configuration
+126;36;Series 20;CF8M;EPDM; $31 491,00 ; $36 730,00 ;Comes with Gear
+127;2;Series 22;CF8;EPDM; $437,00 ; $510,00 ;
+128;2.5;Series 22;CF8;EPDM;;;Not a valid configuration
+129;3;Series 22;CF8;EPDM; $529,00 ; $618,00 ;
+130;4;Series 22;CF8;EPDM; $662,00 ; $772,00 ;
+131;5;Series 22;CF8;EPDM; $783,00 ; $913,00 ;
+132;6;Series 22;CF8;EPDM; $888,00 ; $1 035,00 ;
+133;8;Series 22;CF8;EPDM; $1 482,00 ; $1 728,00 ;
+134;10;Series 22;CF8;EPDM; $2 156,00 ; $2 514,00 ;
+135;12;Series 22;CF8;EPDM; $2 719,00 ; $3 171,00 ;
+136;14;Series 22;CF8;EPDM; $4 512,00 ; $5 263,00 ;
+137;16;Series 22;CF8;EPDM; $6 279,00 ; $7 324,00 ;
+138;18;Series 22;CF8;EPDM; $7 554,00 ; $8 811,00 ;
+139;20;Series 22;CF8;EPDM; $9 672,00 ; $11 281,00 ;
+140;24;Series 22;CF8;EPDM; $13 140,00 ; $15 327,00 ;
+141;28;Series 22;CF8;EPDM;;;Not a valid configuration
+142;30;Series 22;CF8;EPDM; $28 107,00 ; $32 784,00 ;Comes with Gear
+143;32;Series 22;CF8;EPDM;;;Not a valid configuration
+144;36;Series 22;CF8;EPDM; $42 648,00 ; $49 744,00 ;Comes with Gear
+145;2;Series 22;CF8M;EPDM; $457,00 ; $532,00 ;
+146;2.5;Series 22;CF8M;EPDM;;;Not a valid configuration
+147;3;Series 22;CF8M;EPDM; $557,00 ; $650,00 ;
+148;4;Series 22;CF8M;EPDM; $737,00 ; $860,00 ;
+149;5;Series 22;CF8M;EPDM; $880,00 ; $1 026,00 ;
+150;6;Series 22;CF8M;EPDM; $996,00 ; $1 162,00 ;
+151;8;Series 22;CF8M;EPDM; $1 698,00 ; $1 981,00 ;
+152;10;Series 22;CF8M;EPDM; $2 573,00 ; $3 001,00 ;
+153;12;Series 22;CF8M;EPDM; $3 265,00 ; $3 808,00 ;
+154;14;Series 22;CF8M;EPDM; $5 289,00 ; $6 168,00 ;
+155;16;Series 22;CF8M;EPDM; $7 337,00 ; $8 558,00 ;
+156;18;Series 22;CF8M;EPDM; $8 896,00 ; $10 376,00 ;
+157;20;Series 22;CF8M;EPDM; $11 743,00 ; $13 697,00 ;
+158;24;Series 22;CF8M;EPDM; $16 113,00 ; $794,00 ;
+159;28;Series 22;CF8M;EPDM;;;Not a valid configuration
+160;30;Series 22;CF8M;EPDM; $32 376,00 ; $37 763,00 ;Comes with Gear
+161;32;Series 22;CF8M;EPDM;;;Not a valid configuration
+162;36;Series 22;CF8M;EPDM; $46 095,00 ; $53 765,00 ;Comes with Gear
+163;2;Cylinder;n/a;n/a; $451,00 ; $526,00 ;
+164;2.5;Cylinder;n/a;n/a; $453,00 ; $528,00 ;
+165;3;Cylinder;n/a;n/a; $467,00 ; $545,00 ;
+166;4;Cylinder;n/a;n/a; $486,00 ; $567,00 ;
+167;5;Cylinder;n/a;n/a; $554,00 ; $808,00 ;
+168;6;Cylinder;n/a;n/a; $592,00 ; $863,00 ;
+169;8;Cylinder;n/a;n/a; $820,00 ; $1 195,00 ;
+170;10;Cylinder;n/a;n/a; $1 148,00 ; $1 674,00 ;
+171;12;Cylinder;n/a;n/a; $1 211,00 ; $1 765,00 ;
+172;14;Cylinder;n/a;n/a; $1 818,00 ; $2 120,00 ;Comes with Reinforced Yoke
+173;16;Cylinder;n/a;n/a; $1 892,00 ; $2 207,00 ;Comes with Reinforced Yoke
+174;18;Cylinder;n/a;n/a; $2 786,00 ; $3 249,00 ;Comes with Reinforced Yoke
+175;20;Cylinder;n/a;n/a; $3 099,00 ; $3 615,00 ;Comes with Reinforced Yoke
+176;24;Cylinder;n/a;n/a; $3 301,00 ; $3 851,00 ;Comes with Reinforced Yoke
+177;28;Cylinder;n/a;n/a;;;Not a valid configuration
+178;30;Cylinder;n/a;n/a;;;Not a valid configuration
+179;32;Cylinder;n/a;n/a;;;Not a valid configuration
+180;36;Cylinder;n/a;n/a;;;Not a valid configuration

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quote Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container two-col">
+    <h1 class="full-span">Quote Calculator</h1>
+
+    <!-- LEFT PANE -->
+    <div class="pane left-pane">
+      <!-- File picker -->
+      <div class="row">
+        <label for="csvFile">Load price list</label>
+        <input type="file" id="csvFile" accept=".csv,text/csv" />
+      </div>
+
+      <div class="row">
+        <label for="currencySel">Currency</label>
+        <select id="currencySel" name="currency">
+          <option value="USD" selected>USD</option>
+          <option value="CAD">CAD</option>
+        </select>
+      </div>
+
+      <!-- Selectors -->
+      <div id="base-config" class="quote-block">
+        <div class="row">
+          <label for="sizeSel">Size</label>
+          <select id="sizeSel">
+            <option value="">— Select —</option>
+          </select>
+        </div>
+
+        <div class="row">
+          <label for="seriesSel">Series</label>
+          <select id="seriesSel">
+            <option value="">— Select —</option>
+          </select>
+        </div>
+
+        <div class="row">
+          <div class="row full-span">
+            <label for="materialSel">Material</label>
+            <select id="materialSel">
+              <option value="">— Select —</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <label for="seatSel">Seat</label>
+          <select id="seatSel">
+            <option value="">— Select —</option>
+          </select>
+        </div>
+
+        <!-- Note 1 -->
+        <div class="row span-2">
+          <label>Note</label>
+          <div id="noteBox" class="note"></div>
+        </div>
+      </div>
+
+      <!-- Cylinder selector now lives on the LEFT pane -->
+      <div class="row">
+        <label for="cylinderSel">Cylinder</label>
+        <select id="cylinderSel">
+          <option value="">— No Cylinder —</option>
+        </select>
+      </div>
+
+      <!-- Note 2 (for cylinder or anything else) -->
+      <div class="row">
+        <label>Note</label>
+        <div id="noteBox2" class="note"></div>
+      </div>
+    </div>
+
+    <!-- RIGHT PANE -->
+    <form id="quote-form" class="pane right-pane" novalidate>
+      <!-- List price (REQUIRED) -->
+      <div class="field">
+        <label for="list-price">List price</label>
+        <input
+          id="list-price"
+          name="listPrice"
+          type="number"
+          inputmode="decimal"
+          placeholder="Enter price"
+          step="0.01"
+          min="0"
+          required
+          autocomplete="off"
+        />
+      </div>
+
+      <!-- Cylinder price (OPTIONAL) -->
+      <div class="field">
+        <label for="cylinder">Cylinder price (Optional)</label>
+        <input
+          id="cylinder"
+          name="cylinderPrice"
+          type="number"
+          inputmode="decimal"
+          placeholder="Enter price"
+          step="0.01"
+          min="0"
+          autocomplete="off"
+        />
+      </div>
+
+      <!-- Discount tier (REQUIRED) -->
+      <div class="field">
+        <label for="discount">Discount tier</label>
+        <select id="discount" name="discountTier" required>
+          <option value="" disabled selected hidden>— Select Tier —</option>
+          <option value="TierA">Tier A (29% off)</option>
+          <option value="TierB">Tier B (22% off)</option>
+          <option value="TierC">Tier C (15% off)</option>
+          <option value="TierD">Tier D (8% off)</option>
+          <option value="None">No discount</option>
+        </select>
+      </div>
+
+      <!-- Manual additions (user can add 1..N amounts) -->
+      <div class="field">
+        <label>Manual additions</label>
+        <div id="adjustments" class="adjustments">
+          <div id="adjustmentsList" class="adjustments-list"></div>
+          <div class="adjustments-controls">
+            <button type="button" id="addAdjustment">Add line</button>
+            <div id="adjustmentsTotal" class="note adjustments-total">Additions:</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <button type="submit" id="calc-btn">Calculate price</button>
+        <button type="reset" class="secondary">Clear</button>
+      </div>
+
+      <h2>Total</h2>
+      <div id="total" aria-live="polite" role="status">$0.00</div>
+    </form>
+  </main>
+
+  <!-- Scripts -->
+  <script src="index.js" defer></script>
+  <script src="data.js" defer></script>
+
+</body>
+</html>
