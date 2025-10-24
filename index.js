@@ -35,6 +35,7 @@ var DISCOUNT_BPS = {
     "TierB": 7800,  // 22% off
     "TierC": 8500,  // 15% off
     "TierD": 9200,  // 8% off
+    "TierE": 6500,  // 35% off
     "None":  10000  // No discount
 };
 
