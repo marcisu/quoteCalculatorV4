@@ -201,7 +201,7 @@ function initAdjustments() {
 function calculate() {
     var list = parseFloat(listInput.value);
     if (isNaN(list)) {
-        return { ok: false, message: "Enter a valid list price." };
+        list = 0;
     }
 
     var rawCyl = parseFloat(cylInput.value);
